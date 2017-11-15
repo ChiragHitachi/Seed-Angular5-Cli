@@ -1,0 +1,10 @@
+[
+    {
+        "path": "component1",
+        "loadChildren": "../app/lazy/component1.module#component1AppModule"
+    },
+    {
+        "path": "component3",
+        "loadChildren": "../app/lazy/component3.module#component3AppModule"
+    }
+]
